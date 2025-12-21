@@ -222,7 +222,7 @@ The project is open source and available on [GitHub][https://github.com/kupolak/
 
 ---
 
-*P.S. All rights to the characters and quotes from "The World According to the Kiepskis" series belong to their rightful owners. This project was created solely for educational and entertainment purposes.*
+*P.S. All rights to the characters and quotes from "The Lousy World" series belong to their rightful owners. This project was created solely for educational and entertainment purposes.*
 
 [arnoldc-url]: https://github.com/lhartikk/ArnoldC
 [github-url]: https://github.com/kupolak/ferdek
