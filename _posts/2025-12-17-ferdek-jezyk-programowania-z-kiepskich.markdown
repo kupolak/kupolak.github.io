@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Ferdek - An Esoteric Programming Language Inspired by 'The World According to the Kiepskis'"
+title:  "Ferdek - An Esoteric Programming Language Inspired by 'The Lousy World' TV Series"
 date:   2025-12-17 20:00:00 +0100
 categories: programming fun
 ---
 
-![Ferdek Kiepski](https://media.tenor.com/8Vh7qYE8RskAAAAC/ferdek-kiepski-swiat-wedlug-kiepskich.gif)
+<div class="tenor-gif-embed" data-postid="7517382" data-share-method="host" data-aspect-ratio="1" data-width="400px"><a href="https://tenor.com/view/happy-dancing-happy-dance-gif-7517382">Happy Dancing GIF</a>from <a href="https://tenor.com/search/happy-gifs">Happy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## What is Ferdek?
 
-**Ferdek** is a humorous, esoteric programming language based on the cult Polish TV series "The World According to the Kiepskis" (Świat według Kiepskich). Similar to how [ArnoldC][arnoldc-url] uses quotes from Arnold Schwarzenegger movies, Ferdek uses colorful Polish expressions from the show as programming language keywords.
+**Ferdek** is a humorous, esoteric programming language based on the cult Polish TV series "[The Lousy World](https://en.wikipedia.org/wiki/The_Lousy_World)" ([Świat według Kiepskich](https://pl.wikipedia.org/wiki/%C5%9Awiat_wed%C5%82ug_Kiepskich)). Similar to how [ArnoldC][https://github.com/lhartikk/ArnoldC] uses quotes from Arnold Schwarzenegger movies, Ferdek uses colorful Polish expressions from the show as programming language keywords.
 
 This is obviously **a joke and programming experiment** - but it actually works! The language was implemented in OCaml and has both an interpreter and a compiler to C.
 
 ## Project Philosophy
 
-![Kiepscy rodzina](https://media.tenor.com/YqHfZ5nAr1MAAAAC/swiat-wedlug-kiepskich-arnold.gif)
+<div class="tenor-gif-embed" data-postid="3368927164324148871" data-share-method="host" data-aspect-ratio="1.14943" data-width="400px"><a href="https://tenor.com/view/kiepscy-ferdek-halina-lampa-kiepski-gif-3368927164324148871">Kiepscy Ferdek GIF</a>from <a href="https://tenor.com/search/kiepscy-gifs">Kiepscy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 The inspiration for Ferdek was [ArnoldC][arnoldc-url] - a programming language that replaces standard keywords with quotes from Arnie's movies. I thought to myself: "Why not create something similar in Polish?" And so Ferdek was born - a language where instead of boring `while` we write `CHLUŚNIEM BO UŚNIEM` (roughly: "I splashed because I fell asleep"), and instead of `print` we use `PANIE SENSACJA REWELACJA` ("Sir, what a sensation, what a revelation").
 
@@ -35,7 +35,7 @@ PANIE SENSACJA REWELACJA "Cześć, tu Ferdek!"
 MOJA NOGA JUŻ TUTAJ NIE POSTANIE
 {% endhighlight %}
 
-![Ferdek mówi](https://media.tenor.com/M8ZqYPqXCd0AAAAC/swiat-wedlug-kiepskich-ferdynand-kiepski.gif)
+<div class="tenor-gif-embed" data-postid="2268914002221963711" data-share-method="host" data-aspect-ratio="1.14286" data-width="400px"><a href="https://tenor.com/view/waldek-ferdek-kiepski-kiepscy-taniec-gif-2268914002221963711">Waldek Ferdek GIF</a>from <a href="https://tenor.com/search/waldek-gifs">Waldek GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Basic Constructs
 
@@ -94,7 +94,7 @@ A ROBIĆ NI MA KOMU
 MOJA NOGA JUŻ TUTAJ NIE POSTANIE
 {% endhighlight %}
 
-![Kiepski confused](https://media.tenor.com/7hBJR8gk42YAAAAC/swiat-wedlug-kiepskich-ferdynand-kiepski.gif)
+<div class="tenor-gif-embed" data-postid="9778260284991345088" data-share-method="host" data-aspect-ratio="1.03093" data-width="400px"><a href="https://tenor.com/view/kiepscy-ferdynand-ferdek-%C5%9Bwiat-wed%C5%82ug-kiepskich-kac-gif-9778260284991345088">Kiepscy Ferdynand GIF</a>from <a href="https://tenor.com/search/kiepscy-gifs">Kiepscy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Advanced Features
 
@@ -153,7 +153,7 @@ AKUKARACZA                          RYM CYM CYM continue
 W TYM KRAJU NIE MA PRACY DLA LUDZI Z MOIM WYKSZTAŁCENIEM
 {% endhighlight %}
 
-![Kiepski thinking](https://media.tenor.com/XUTwbvhxmTEAAAAC/swiat-wedlug-kiepskich-mysli.gif)
+<div class="tenor-gif-embed" data-postid="7699448" data-share-method="host" data-aspect-ratio="1.30081" data-width="400px"><a href="https://tenor.com/view/funny-smile-crazy-waldus-kiepski-gif-7699448">Funny Smile GIF</a>from <a href="https://tenor.com/search/funny-gifs">Funny GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Development Tools
 
@@ -196,13 +196,13 @@ ferdek -c hello.ferdek -o hello
 
 ## Summary
 
-![Kiepski dance](https://media.tenor.com/5SYJ8h8uJqsAAAAC/swiat-wedlug-kiepskich-taniec.gif)
+<div class="tenor-gif-embed" data-postid="12396302701009616732" data-share-method="host" data-aspect-ratio="1.33155" data-width="400px"><a href="https://tenor.com/view/u%C5%9Bmiech-losu-ferdek-waldek-kiepscy-dolar-gif-12396302701009616732">Uśmiech Losu Ferdek GIF</a>from <a href="https://tenor.com/search/u%C5%9Bmiech+losu-gifs">Uśmiech Losu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Ferdek is proof that programming can be fun! It's a tribute to the cult Polish TV series and an experiment showing that a programming language can be built on any set of keywords - even quotes from Ferdek Kiepski.
 
 Is it practical? No. Is it funny? Absolutely! Does it work? Yes!
 
-The project is open source and available on [GitHub][github-url]. If you have ideas for new features or just want to experiment with your own esoteric language, contributions are welcome!
+The project is open source and available on [GitHub][https://github.com/kupolak/ferdek]. If you have ideas for new features or just want to experiment with your own esoteric language, contributions are welcome!
 
 **MOJA NOGA JUŻ TUTAJ NIE POSTANIE** 🎉
 
