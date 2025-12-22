@@ -169,18 +169,14 @@ W TYM KRAJU NIE MA PRACY DLA LUDZI Z MOIM WYKSZTAŁCENIEM
 
 ### VS Code Extension
 
-Ferdek has full support in Visual Studio Code! [Ferdek Language Support][vscode-ext] offers:
+Ferdek has full support in Visual Studio Code! [Ferdek Language Support][https://github.com/kupolak/ferdek-vscode] offers:
 
 - Syntax highlighting
 - Auto-completion
 - Code snippets
 - IntelliSense
 
-You can install it directly from the [VS Code Marketplace][vscode-ext].
-
-### Package Manager - Boczek
-
-The project also includes **Boczek** - a package manager for Ferdek that allows you to create and manage libraries in this language.
+You can install it directly from the [VS Code Marketplace][https://marketplace.visualstudio.com/items?itemName=JakubPolak.vscode-ferdek].
 
 ## Installation and Usage
 
