@@ -23,13 +23,13 @@ email: jakub.polak.vz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software developer and open source enthusiast. 
   Writing about programming, languages, and experiments.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kupolak.github.io" # the base hostname & protocol for your site
 github_username: kupolak
-linkedin_username: https://www.linkedin.com/in/jakub-p-7bd6145a888b67cd09f607b517bb1ef7/
 
 # Additional settings
 author: Jakub Polak
 lang: en
-show_excerpts: true
 
 # Header pages (navigation order)
 header_pages:
@@ -41,8 +41,6 @@ minima:
   skin: auto # Options: auto, classic, dark, solarized, solarized-dark
   social_links:
     github: kupolak
-    # twitter: your-twitter-username
-    linkedin: https://www.linkedin.com/in/jakub-p-7bd6145a888b67cd09f607b517bb1ef7/
 
 # Analytics (uncomment and add your ID)
 google_analytics: GTM-TZ5F255M
