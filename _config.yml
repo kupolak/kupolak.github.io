@@ -47,7 +47,7 @@ google_analytics: GTM-TZ5F255M
 
 # Comments
 disqus:
-  shortname: kupolak
+  shortname: kubapol
 
 # Build settings
 theme: minima
