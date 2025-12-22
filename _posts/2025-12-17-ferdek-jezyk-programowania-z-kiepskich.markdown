@@ -11,7 +11,7 @@ categories: programming fun
 
 ## What is Ferdek?
 
-**Ferdek** is a humorous, esoteric programming language based on the cult Polish TV series "[The Lousy World](https://en.wikipedia.org/wiki/The_Lousy_World)" ([Świat według Kiepskich](https://pl.wikipedia.org/wiki/%C5%9Awiat_wed%C5%82ug_Kiepskich)). Similar to how [ArnoldC][https://github.com/lhartikk/ArnoldC] uses quotes from Arnold Schwarzenegger movies, Ferdek uses colorful Polish expressions from the show as programming language keywords.
+**Ferdek** is a humorous, esoteric programming language based on the cult Polish TV series "[The Lousy World](https://en.wikipedia.org/wiki/The_Lousy_World)" ([Świat według Kiepskich](https://pl.wikipedia.org/wiki/%C5%9Awiat_wed%C5%82ug_Kiepskich)). Similar to how [ArnoldC](https://github.com/lhartikk/ArnoldC) uses quotes from Arnold Schwarzenegger movies, Ferdek uses colorful Polish expressions from the show as programming language keywords.
 
 This is obviously **a joke and programming experiment** - but it actually works! The language was implemented in OCaml and has both an interpreter and a compiler to C.
 
@@ -169,14 +169,14 @@ W TYM KRAJU NIE MA PRACY DLA LUDZI Z MOIM WYKSZTAŁCENIEM
 
 ### VS Code Extension
 
-Ferdek has full support in Visual Studio Code! [Ferdek Language Support][https://github.com/kupolak/ferdek-vscode] offers:
+Ferdek has full support in Visual Studio Code! [Ferdek Language Support](https://github.com/kupolak/ferdek-vscode) offers:
 
 - Syntax highlighting
 - Auto-completion
 - Code snippets
 - IntelliSense
 
-You can install it directly from the [VS Code Marketplace][https://marketplace.visualstudio.com/items?itemName=JakubPolak.vscode-ferdek].
+You can install it directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JakubPolak.vscode-ferdek).
 
 ## Installation and Usage
 
@@ -212,7 +212,7 @@ Ferdek is proof that programming can be fun! It's a tribute to the cult Polish T
 
 Is it practical? No. Is it funny? Absolutely! Does it work? Yes!
 
-The project is open source and available on [GitHub][https://github.com/kupolak/ferdek]. If you have ideas for new features or just want to experiment with your own esoteric language, contributions are welcome!
+The project is open source and available on [GitHub](https://github.com/kupolak/ferdek). If you have ideas for new features or just want to experiment with your own esoteric language, contributions are welcome!
 
 **MOJA NOGA JUŻ TUTAJ NIE POSTANIE** 🎉
 
