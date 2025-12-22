@@ -21,7 +21,7 @@ This is obviously **a joke and programming experiment** - but it actually works!
 <div class="tenor-gif-embed" data-postid="3368927164324148871" data-share-method="host" data-aspect-ratio="1.14943" data-width="400px"><a href="https://tenor.com/view/kiepscy-ferdek-halina-lampa-kiepski-gif-3368927164324148871">Kiepscy Ferdek GIF</a>from <a href="https://tenor.com/search/kiepscy-gifs">Kiepscy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
-The inspiration for Ferdek was [ArnoldC][arnoldc-url] - a programming language that replaces standard keywords with quotes from Arnie's movies. I thought to myself: "Why not create something similar in Polish?" And so Ferdek was born - a language where instead of boring `while` we write `CHLUŚNIEM BO UŚNIEM` (roughly: "I splashed because I fell asleep"), and instead of `print` we use `PANIE SENSACJA REWELACJA` ("Sir, what a sensation, what a revelation").
+The inspiration for Ferdek was [ArnoldC][arnoldc-url] - a programming language that replaces standard keywords with quotes from Arnie's movies. I thought to myself: "Why not create something similar in Polish?" And so Ferdek was born - a language where instead of boring `while` we write `CHLUŚNIEM BO UŚNIEM` (roughly: "I’ll chug it before I pass out"), and instead of `print` we use `PANIE SENSACJA REWELACJA` ("Sir, what a sensation, what a revelation").
 
 ## Syntax Examples
 
