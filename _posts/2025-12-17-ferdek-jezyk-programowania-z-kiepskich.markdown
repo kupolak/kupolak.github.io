@@ -191,6 +191,8 @@ Ferdek has full support in Visual Studio Code! [Ferdek Language Support](https:/
 - Code snippets
 - IntelliSense
 
+![Ferdek VS Code Extension](https://raw.githubusercontent.com/kupolak/ferdek-vscode/refs/heads/main/example.png)
+
 You can install it directly from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=JakubPolak.vscode-ferdek).
 
 ## Installation and Usage
