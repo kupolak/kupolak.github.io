@@ -133,23 +133,6 @@ HELENA MAM ZAWAŁ blad
     PANIE SENSACJA REWELACJA "I caught an error!"
 {% endhighlight %}
 
-### Classes and Objects
-
-{% highlight shell %}
-ALE JAJA Osoba
-    CYCU PRZYNIEŚ NO imie
-    TO NIE SĄ TANIE RZECZY "None"
-
-    ALE WIE PAN JA ZASADNICZO przedstawSie
-        PANIE SENSACJA REWELACJA "Hello, I'm "
-        PANIE SENSACJA REWELACJA imie
-    DO WIDZENIA PANU
-DO WIDZENIA PANU
-
-CYCU PRZYNIEŚ NO osoba
-TO NIE SĄ TANIE RZECZY DZIAD ZDZIADZIAŁY JEDEN Osoba
-{% endhighlight %}
-
 ### Arrays
 
 {% highlight shell %}
@@ -157,16 +140,10 @@ PANIE TO JEST PRYWATNA PUBLICZNA TABLICA liczby
 TO NIE SĄ TANIE RZECZY [1, 2, 3, 4, 5]
 {% endhighlight %}
 
-### Importing Modules
-
-{% highlight shell %}
-O KOGO MOJE PIĘKNE OCZY WIDZĄ MojModul
-{% endhighlight %}
-
 ### Break and Continue
 
 {% highlight shell %}
-A POCAŁUJCIE MNIE WSZYSCY W DUPĘ   RYM CYM CYM break
+A POCAŁUJCIE MNIE WSZYSCY W DUPĘ    RYM CYM CYM break
 AKUKARACZA                          RYM CYM CYM continue
 {% endhighlight %}
 
